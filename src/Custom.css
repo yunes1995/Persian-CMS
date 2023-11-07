@@ -1,0 +1,25 @@
+@import "./reset.css";
+
+@font-face {
+    font-family: lalehzar;
+    src: url("./fonts/Lalezar-Regular.ttf");
+}
+
+@font-face {
+    font-family: ubonto;
+    src: url("./fonts/Ubuntu/Ubuntu-Regular.ttf");
+}
+
+:root{
+--white: #fff;
+--mainPen : #063970
+}
+
+
+body{
+    background-color: var(--white);
+    font-family: ubonto;
+    display: flex;
+    direction: rtl;
+}
+

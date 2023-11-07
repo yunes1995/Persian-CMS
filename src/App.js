@@ -1,7 +1,9 @@
 import React from 'react'
+import Sidebar from "./component/sidebar/Sidebar";
+import "./Custom.css"
 
 export default function App() {
   return (
-    <h1>Yunes Mohammadi</h1>
+   <Sidebar></Sidebar>
   )
 }
