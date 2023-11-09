@@ -1,6 +1,6 @@
 .sidebar {
     position: fixed;
-    background-color: var(--blue);
+    /* background-color: var(--mainPen); */
     height: 100vh;
     flex: 1;
     background-color: #391588;
