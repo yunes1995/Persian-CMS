@@ -23,6 +23,7 @@ export default function Sidebar() {
         <li className="active">
           <Link to="products">
             {/* <MdProductionQuLinkntityLimits className="icon" /> */}
+            <BiCommentDetail className="icon" />
             محصولات
           </Link>
         </li>
