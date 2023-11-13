@@ -3,6 +3,6 @@ import ErrorBox from "../ErrorBox/ErrorBox"
 
 export default function Offers() {
   return (
-    <ErrorBox msg={"هیچ تخفیفی یافت نشد."}></ErrorBox>
+    <ErrorBox msg={"هیچ تخفیفی یافت نشد"}></ErrorBox>
   )
 }
