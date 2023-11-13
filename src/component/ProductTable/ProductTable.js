@@ -15,8 +15,8 @@ export default function ProductTable() {
         <td>
             <img src="images/iphone.jpeg" alt="oil image" className='products-table-img' />
         </td>
-        <td>روغن سرخ کردنی</td>
-        <td>92000 تومان</td>
+        <td>iPhone 13 pro</td>
+        <td>92000000 تومان</td>
         <td>82</td>
         <td>
             <button className='products-table-btn'>جزییات</button>
